@@ -1,5 +1,5 @@
 def get_big(s):
-    '''all letters are big'''
+    '''do letters some bigger'''
     return s.upper()
 
 def get_big_title(s):
